@@ -3,7 +3,7 @@ window.onload = () => {
     html: `
       <div class="gif-header"></div>
       <div class="content1">
-        <h2>Hello 👋 I’m shahroz khan..</h2>
+        <h2>Hello 👋 I’m SHAHROZ KHAN</h2>
         <p>
           Frontend Developer<br>
           Turning ideas into<br>
@@ -27,4 +27,5 @@ window.onload = () => {
     }
   });
 };
+
 
